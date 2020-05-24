@@ -94,3 +94,8 @@ Then run the app:
 - [Flask](http://flask.pocoo.org/) - A microframework for Python
 - [Pusher](https://pusher.com/) - APIs to enable devs building realtime features
 - [Vue.js](https://vuejs.org/) - A JavaScript Framework for building User Interfaces
+
+There are different accounts in database:
+user1 : password
+kols  : kola
+pola  :pola
