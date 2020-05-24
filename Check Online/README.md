@@ -96,6 +96,5 @@ Then run the app:
 - [Vue.js](https://vuejs.org/) - A JavaScript Framework for building User Interfaces
 
 There are different accounts in database:
-user1 : password
-kols  : kola
-pola  :pola
+{account : password}
+{ user1 : password , kola  : kola , pola  :pola }
